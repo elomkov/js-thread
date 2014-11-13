@@ -29,6 +29,9 @@ ___
 ___
 **Стефанов С. - "JavaScript. Шаблоны"** 
 ___
+**Dr. Axel Rauschmayer - "Speaking JavaScript: An In-Depth Guide for Programmers"** 
+**http://speakingjs.com/**
+___
  
 **Онлайн сообщества:**
 =========
