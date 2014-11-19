@@ -29,9 +29,9 @@ ___
 ___
 **Стефанов С. - "JavaScript. Шаблоны"**
 ___
-** Джон Резиг - "Секреты JavaScript ниндзя"**
+**Джон Резиг - "Секреты JavaScript ниндзя"**
 ___
-** Николас Закас - "JavaScript. Оптимизация производительности"**
+**Николас Закас - "JavaScript. Оптимизация производительности"**
 ___
 **Dr. Axel Rauschmayer - "Speaking JavaScript: An In-Depth Guide for Programmers"** - Одна из лучших книг по JS. Пока только на английском.
 **http://speakingjs.com/**
@@ -49,9 +49,13 @@ http://www.jstherightway.org/ - Огромный гайд составленны
 **Бложики и новостные ленты:**
 =========
 http://dailyjs.com/ - DailyJS
+
 http://weblog.bocoup.com/ - Bocoup Weblog
+
 http://perfectionkills.com/ - Perfection Kills
+
 http://www.reddit.com/r/javascript - subreddit на reddit.com
+
 http://toddmotto.com/ - Todd Motto, Lead front-end @appsbroker. Developer Expert @google.
 
 **Онлайн курсы:**
