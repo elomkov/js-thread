@@ -61,7 +61,8 @@ http://toddmotto.com/ - Todd Motto, Lead front-end @appsbroker. Developer Expert
 **Онлайн курсы:**
 =========
 Как же можно учить язык, только читая книжонки? Нужна практика, и только так изучаемое усваивается, не иначе.
-**CodeSchool** - http://codeschool.com
+
+**CodeSchool** - http://codeschool.com/
 Отличный ресурс для изучения языка, очень много курсов по всем передовым технологиям.
 
 **CodeAcademy** - http://www.codecademy.com/
