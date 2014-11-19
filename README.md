@@ -69,8 +69,8 @@ http://toddmotto.com/ - Todd Motto, Lead front-end @appsbroker. Developer Expert
 
 **Udacity** - https://www.udacity.com/course/ud015
 Дает хорошее представляение о замыканиях.
-=========
 
+___
 Выучил основы, написал свою пузырьковую сортировку и змейку? Не знаешь как двигаться дальше?
 
 Почитай теперь это - https://shamansir.github.io/JavaScript-Garden/
