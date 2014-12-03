@@ -36,8 +36,9 @@ ___
 **Dr. Axel Rauschmayer - "Speaking JavaScript: An In-Depth Guide for Programmers"** - Одна из лучших книг по JS. Пока только на английском.
 **http://speakingjs.com/**
 ___
-**Marijn Haverbeke - "Eloquent Javascript"** - Вводная книга по JavaScript и программирование в целом. Пока только на английском.
-**http://eloquentjavascript.net/**
+**Marijn Haverbeke - "Eloquent Javascript"** - Вводная книга по JavaScript и программирование в целом. Перевод на хабре: http://habrahabr.ru/post/240219/
+На английском :**http://eloquentjavascript.net/**
+
 ___
 
 **Онлайн сообщества:**
